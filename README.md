@@ -27,3 +27,6 @@ Fine-tuned on labeled dataset of tag images
 OCR Integration: Used Tesseract OCR to extract text from detected tags.
 
 Output: Each image is processed to return the recognized tag ID with confidence scores.
+
+## 🚫 Data Confidentiality
+⚠️ Note: The original dataset used in this project is private and cannot be shared. This repository contains the complete model training and inference pipeline, but will not execute without appropriate input data. A demo using public images may be added in the future.
